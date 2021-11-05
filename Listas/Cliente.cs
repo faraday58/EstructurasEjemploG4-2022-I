@@ -9,7 +9,7 @@ namespace Listas
         #endregion
        
 
-        #region Constructor de la estructruca
+        #region Constructor de la estructuca
         /// <summary>
         /// Constructor que inicializa los campos Nombre y Edad
         /// </summary>
